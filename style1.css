@@ -1,0 +1,104 @@
+body {
+    background-color: powderblue;
+    font-family: 'Gill Sans';
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    font-size: 120%;
+}
+
+/*images size*/
+img {
+    width: 20%;
+}
+
+#A {
+    background-color: gray;
+    color: black;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px seagreen;
+}
+
+/*css font*/
+p, ol {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+    font-family: Verdana;
+    text-align: justify;
+}
+
+Ol.a {
+    list-style-type: decimal;
+    font-family: sans-serif;
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin: auto;
+}
+table {
+    width: 60%;
+}
+
+#C {
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+    border: 5px seagreen;
+    color: black;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.head {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.siapaituTedBundy {
+    text-align: justify;
+    color: black;
+    border: 50px black;
+    font-size: 100%;
+    font-family: 'Gill Sans';
+}
+.fa-youtube{
+    color: red;
+    margin-left: 4%;
+}
+.back {
+    background-image: url(image/td.jpeg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    background-size: cover;
+    color: black;
+    font-family: monospace;
+    text-align: left;
+}
